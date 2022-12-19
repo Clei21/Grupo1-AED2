@@ -1,1 +1,2 @@
-# Grupo1-AED2
+# Grupo1_AED2
+Equipe: Cleidiana, Luiz, Francisco, Guilherme, Igor e Wanderberg
